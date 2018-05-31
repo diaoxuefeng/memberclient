@@ -1,0 +1,6 @@
+com\diao\client\entity\BaseEntity.class
+com\diao\client\dto\response\CommonResponse.class
+com\diao\client\api\MemberApi.class
+com\diao\client\dto\request\MemberAddRequest.class
+com\diao\client\dto\response\MemberResponse.class
+com\diao\client\entity\Member.class
